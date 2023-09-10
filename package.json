@@ -1,0 +1,13 @@
+{
+  "name": "taskprinter",
+  "version": "1.0.0",
+  "description": "Simulación tareas de impresión",
+  "main": "printer.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "stiven drada rodriguez",
+  "license": "ISC"
+}
